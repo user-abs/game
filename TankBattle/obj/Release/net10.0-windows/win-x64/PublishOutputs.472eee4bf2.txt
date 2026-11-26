@@ -1,0 +1,2 @@
+/workspaces/game/TankBattle/TankBattle-Windows/TankBattle.pdb
+/workspaces/game/TankBattle/TankBattle-Windows/TankBattle.exe
