@@ -1,0 +1,2 @@
+/workspaces/game/DungeonDelve/DungeonDelve-Windows/DungeonDelve.pdb
+/workspaces/game/DungeonDelve/DungeonDelve-Windows/DungeonDelve.exe
